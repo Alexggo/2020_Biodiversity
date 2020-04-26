@@ -9,7 +9,7 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_knit$set(root.dir = 'C:/Users/alexg/Google Drive/05-Proyectos/sara_tfm_analysis/')
+knitr::opts_knit$set(root.dir = 'C:/Users/alexg/Google Drive/05-Proyectos/diversity_analysis/')
 
 #Or setwd() 
 #setwd('C:/Users/alexg/Google Drive/05-Proyectos/sara_tfm_analysis/')
