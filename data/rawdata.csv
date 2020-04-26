@@ -1,0 +1,33 @@
+ID;Archipielago;Isla;Punto;Vegetacion;Fecha;Latitud;Longitud;Temperatura;Humedad;pH;Cryptopygus antarcticus;Cryptopygus badasa;Folsomotoma octooculata;Friesea grisea;Tullbergia mixta;Archisotoma brucei;Mucrosomia caeca;Ceratophysella succinea;Hypogastrura viatica;Protaphorura fimata;Lepidocyrtus sp
+1;Islas Shetland del Sur;Rey Jorge;Artigas;Playa;11/02/2017;-62.187238;-58.904922;2.2;7.9;5.5;0;0;0;0;0;0;0;0;0;0;0
+2;Islas Shetland del Sur;Rey Jorge;Artigas;Musgo;11/02/2017;-62.185943;-58.903638;6.6;1.1;6;0;0;0;0;17;0;0;0;0;0;0
+3;Islas Shetland del Sur;Rey Jorge;Artigas;Algas;11/02/2017;-62.18499;-58.90111;;;;0;0;1;0;2;0;0;0;0;0;0
+4;Islas Shetland del Sur;Rey Jorge;Artigas;Líquen;11/02/2017;-62.185423;-58.90186;;;;0;0;101;2;5;0;0;0;0;0;0
+1;Islas Shetland del Sur;Decepción;Kroner Lake;Musgo;12/02/2017;-62.978889;-60.577778;10.7;0;7;0;0;0;0;0;0;0;0;0;0;0
+2;Islas Shetland del Sur;Decepción;Kroner Lake;Musgo;12/02/2017;-62.978611;-60.578056;8.3;0;7;6;0;0;0;0;0;0;0;209;0;0
+3;Islas Shetland del Sur;Decepción;Kroner Lake;Algas;12/02/2017;-62.979167;-60.573333;8;20.7;5.7;4;0;0;0;0;0;626;1;0;0;0
+4;Islas Shetland del Sur;Decepción;Kroner Lake;Musgo;12/02/2017;-62.979167;-60.573333;7.4;0;6.8;1;0;0;0;1;0;140;0;6;0;0
+5;Islas Shetland del Sur;Decepción;Kroner Lake;Algas;12/02/2017;-62.979167;-60.578333;14.1;0;5.5;0;0;0;0;0;0;5;0;579;2;0
+1;Islas Shetland del Sur;Decepción;Crater Lake;Musgo;12/02/2017;-62.983889;-60.669444;4.5;3.1;6;130;0;6;0;0;0;0;0;0;0;0
+2;Islas Shetland del Sur;Decepción;Crater Lake;Musgo;12/02/2017;-62.986111;-60.669167;4.5;0;6.5;0;0;5;0;5;0;0;0;5;0;0
+1;Islas Shetland del Sur;Livingston;Juan Carlos I;Deschampsia;12/02/2017;-62.995278;-60.393889;5.3;5.8;6.5;0;8;56;13;0;0;0;0;0;0;0
+2;Islas Shetland del Sur;Livingston;Juan Carlos I;Musgo;12/02/2017;-62.996111;-60.389722;4.8;2.5;6.8;119;78;3;1;0;0;0;0;0;0;0
+1;Islas Shetland del Sur;Livingston;Byers;Deschampsia;13/02/2017;-62.666235;-61.096033;5.6;5.9;6.2;126;72;0;0;13;0;0;0;0;0;0
+2;Islas Shetland del Sur;Livingston;Byers;Líquen;13/02/2017;-62.665347;-61.092788;4;4.7;6.2;0;3;29;2;24;0;0;0;0;0;0
+3;Islas Shetland del Sur;Livingston;Byers;Musgo;13/02/2017;-62.664765;-61.091089;3.6;3.5;6.8;0;1;3;2;13;0;0;0;0;0;0
+4;Islas Shetland del Sur;Livingston;Byers;Musgo y líquen;13/02/2017;-62.664163;-61.088875;3.8;15.3;5.5;759;0;0;0;32;0;0;0;1;0;0
+5;Islas Shetland del Sur;Livingston;Byers;Playa;13/02/2017;-62.663956;-61.086822;4.4;9.5;5.4;1368;0;0;0;9;0;0;0;0;0;0
+1;Palmer;Anvers;Palmer Station;Musgos;15/02/2017;-64.763278;-64.070806;4.5;1.9;6.2;611;0;0;0;0;0;0;0;0;0;0
+2;Palmer;Anvers;Palmer Station;Deschampsia;15/02/2017;-64.763917;-64.069417;5.1;8.2;5.8;731;0;0;0;0;0;0;0;0;0;0
+3;Palmer;Anvers;Palmer Station;Playa;15/02/2017;-64.764583;-64.067583;5.1;5.3;6.5;77;0;0;0;0;0;0;0;0;0;0
+4;Palmer;Anvers;Palmer Station;Musgos;15/02/2017;-64.763611;-64.07525;4.9;7.6;6;58;0;0;0;0;0;0;0;0;0;0
+5;Palmer;Anvers;Palmer Station;Roca desnuda;15/02/2017;-64.764028;-64.077;4.7;0;6.8;634;0;0;31;0;0;0;0;0;0;0
+1;Palmer;Goudier;Port Lockroy;Roca desnuda;20/02/2017;-64.82525;-64.493333;2.3;21.2;6.4;13;0;0;0;0;0;0;0;0;0;0
+2;Palmer;Goudier;Port Lockroy;Playa;20/02/2017;-64.824861;-64.493861;2.8;15;6.2;51;0;0;0;0;3;0;0;0;0;0
+3;Palmer;Goudier;Port Lockroy;Algas;20/02/2017;-64.823472;-64.49425;1.8;;;24;0;0;0;0;0;0;0;0;0;0
+1;Palmer;Wiencke;Damoy;Musgo;20/02/2017;-64.8175;-64.512528;1.5;18.6;6.2;2017;0;6;6;0;0;0;0;1;0;1
+2;Palmer;Wiencke;Damoy;Algas;20/02/2017;-64.817639;-64.504083;0.1;0;6.6;2;0;0;0;0;0;0;0;0;0;0
+3;Palmer;Wiencke;Damoy;Suelo congelado;20/02/2017;-64.828222;-64.503861;0.3;0;7;0;0;0;0;0;0;0;0;0;0;0
+1;Palmer;Wiencke;Jougla;Roca desnuda;20/02/2017;-64.829806;-64.490278;1.3;5.2;5.8;176;0;0;0;0;0;0;0;0;0;0
+2;Palmer;Wiencke;Jougla;Musgos;20/02/2017;-64.829833;-64.490361;3;4.3;5.8;13558;0;31;18;0;0;0;0;0;0;0
+3;Palmer;Wiencke;Jougla;Algas;20/02/2017;-64.829972;-64.489833;4.5;10.8;5.4;622;0;1;2;0;0;0;0;0;0;0
